@@ -1,0 +1,3 @@
+insert into exercise(category,runtime,sport,swimtime,walktime,weighttraining,yoga) values ('normal','2-5 km ','Football,Cricket,Basketball','20-30 min','3-4 km || 20-30 min','Squat,Bench press,Chest Fly,Pull-up','Sarvangasana,Uttanasana,Paschimottanasana');
+insert into exercise(category,runtime,sport,swimtime,walktime,weighttraining,yoga) values('overweight','1-2 km ','Badminton,Football,Volleyball,Table tennis','30-40 min','5-6 km || 40-45 min','Deadlift,Crunch,Leg press,Wall sit,Push-up','Kapal Bhati,Naukasana,Dandasana');
+insert into exercise(category,runtime,sport,swimtime,walktime,weighttraining,yoga) values('underweight','1-3 km ','Cricket,Tennis,Handball','10-25 min','2-3 km || 15-25 min','Push-up,Shoulder Press,Leg raise','Vajrasana,Bhujangasana,Matsyasana');
